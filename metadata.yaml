@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1203
     wikipedia: http://en.wikipedia.org/wiki/Mary_Baker_Eddy
 description: 'Date of origin: first chartered 1879, reorganized 1892'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18039#Manual-of-the-Mother-ChurchThe-First-Church-of-Christ-Scientist-in-Boston-Massachusetts
 edition_note: Eighty-Ninth edition
 gutenberg_bookshelf: Christianity
 gutenberg_issued: '2006-03-23'
